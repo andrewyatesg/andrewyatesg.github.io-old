@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-UNDER CONSTRUCTION!!!
+About Me
 ======
 
-Section 1
+Hi, I'm Andrew Yates. I study physics and computer science at Cornell University. Broadly speaking, my interests are quantum computing and quantum information theory with emphasis in quantum simulation and machine learning.
 
 Section 2
 ======
