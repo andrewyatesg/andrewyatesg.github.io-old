@@ -17,25 +17,26 @@ Education
 
 Research experience
 ======
-* April 2021 - present: Undergrad Researcher
-  * Mentor(s): John Preskill, Sepehr Nezami
+* April 2021 - present: Many-body Quantum Teleportation and Holography
+  * Mentors: John Preskill, Sepehr Nezami
   * Caltech
-  * Topic: Many-body quantum teleportation and holography
 
-* June 2019 - present: Undergrad Researcher
-  * Mentor(s): Peter McMahon, Logan Wright
+* June 2019 - present: Quantum Reservoir Computing
+  * Mentors: Peter McMahon, Logan Wright
   * Cornell University
-  * Topic: Quantum reservoir computing
 
-* August 2020 - March 2021: Undergrad Researcher
-  * Mentor(s): Peter McMahon, Paul Ginsparg, Thomas Hartman, Eliott Rosenberg
+* August 2020 - March 2021: Thermal States of SYK for Quantum Simulation
+  * Mentors: Peter McMahon, Paul Ginsparg, Thomas Hartman, Eliott Rosenberg
   * Cornell University
-  * Topic: Thermal states of SYK on quantum computers
   
 Skills
 ======
 * Quantum computing / information theory
-* Machine learning
+  * Quantum BLAS
+  * Unitary t-designs
+  * Scrambling
+* (Quantum) Machine Learning
+  * Reservoir Computing and Extreme Learning Machines
 
 <!-- Publications
 ======
