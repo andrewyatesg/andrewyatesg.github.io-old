@@ -15,26 +15,29 @@ Education
 * *Minor*: Computer Science, *Concentration*: Mathematics
 * *Relevant coursework*: Quantum Information Processing, Blackholes and Quantum Information (Grad), Relativistic Quantum Field Theory (Grad), Quantum I-III, Solid State Physics, Applied Functional Analysis (Grad), Mathematical Methods for Information Science, Large Scale Machine Learning.
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2021 - present: Undergrad Researcher
+  * Mentor(s): John Preskill, Sepehr Nezami
+  * Caltech
+  * Topic: Many-body quantum teleportation and holography
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - present: Undergrad Researcher
+  * Mentor(s): Peter McMahon, Logan Wright
+  * Cornell University
+  * Topic: Quantum reservoir computing
+
+* August 2020 - March 2021: Undergrad Researcher
+  * Mentor(s): Peter McMahon, Paul Ginsparg, Thomas Hartman, Eliott Rosenberg
+  * Cornell University
+  * Topic: Thermal states of SYK on quantum computers
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Quantum computing / information theory
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
