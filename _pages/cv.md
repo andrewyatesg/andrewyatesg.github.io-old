@@ -35,11 +35,9 @@ Research experience
 Skills
 ======
 * Quantum computing / information theory
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Machine learning
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -55,8 +53,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I lead an undergraduate quantum machine learning group within McMahon lab.
+* I am a mentor for prospective physics and computer science majors at Cornell.
