@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Physics, Cornell University, 2022 (expected)
 * *Minor*: Computer Science, *Concentration*: Mathematics
-* *Relevant coursework*: Quantum Information Processing, Blackholes and Quantum Information (Grad), Relativistic Quantum Field Theory (Grad), Quantum I-III, Solid State Physics, Applied Functional Analysis (Grad), Mathematical Methods for Information Science, Large Scale Machine Learning.
+* *Selected coursework*: Quantum Information Processing, Blackholes and Quantum Information (Grad), Relativistic Quantum Field Theory (Grad), Quantum I-III, Solid State Physics, Applied Functional Analysis (Grad), Mathematical Methods for Information Science, Large Scale Machine Learning.
 
 Research experience
 ======
