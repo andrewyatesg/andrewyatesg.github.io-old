@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WEBSITE UNDER CONSTRUCTION!!"
+title: "About Me - Andrew Yates"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
