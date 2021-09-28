@@ -17,17 +17,21 @@ Education
 
 Research experience
 ======
+*Research supervisors (professors) are in bold.*
 * April 2021 - present: Many-body Quantum Teleportation and Holography
-  * Mentors: John Preskill, Sepehr Nezami
+  * Mentors: **John Preskill**, Sepehr Nezami
   * Caltech
+  * Studying the effects of noise on 'quantum gravity in the lab' experiments with near-term quantum computers, based on https://arxiv.org/abs/2102.01064.
 
 * June 2019 - present: Quantum Reservoir Computing
-  * Mentors: Peter McMahon, Logan Wright
+  * Mentors: **Peter McMahon**, Logan Wright
   * Cornell University
+  * Creating, implementing, and testing a quantum circuit-model machine learning algorithm based on the principles of classical reservoir computing.
 
 * August 2020 - March 2021: Thermal States of SYK for Quantum Simulation
-  * Mentors: Peter McMahon, Paul Ginsparg, Thomas Hartman, Eliott Rosenberg
+  * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
   * Cornell University
+  * Implementing/Designing variational quantum algorithms to prepare thermofield double states of SYK.
   
 Skills
 ======
