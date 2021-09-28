@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-*Research supervisors (professors) are in bold.*
+*Research supervisors (faculty members) are in bold.*
 * April 2021 - present: Many-body Quantum Teleportation and Holography
   * Mentors: **John Preskill**, Sepehr Nezami
   * Caltech
