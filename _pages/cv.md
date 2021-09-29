@@ -28,6 +28,11 @@ Research experience
   * Cornell University
   * Creating, implementing, and testing a quantum circuit-model machine learning algorithm based on the principles of classical reservoir computing.
 
+* June 2019 - present: Quantum Neural Networks
+  * Mentors: **Peter McMahon**
+  * Cornell University
+  * Leading the undergraduate QML subgroup in the pursuit of two projects: (a) noise mitigation in QNNs and (b) quantifying the power of QNNs using ideas from quantum chaos.
+
 * August 2020 - March 2021: Thermal States of SYK for Quantum Simulation
   * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
   * Cornell University
