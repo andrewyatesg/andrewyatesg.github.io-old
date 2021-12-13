@@ -27,16 +27,16 @@ Research experience
   * Mentors: **Peter McMahon**, Logan Wright
   * Cornell University
   * Theoretical and simulation work in quantum machine learning. Created, implemented, and testing a circuit-model quantum machine learning algorithm based on the principles of classical reservoir computing. This project includes quantum matrix inversion (HHL), quantum linear regression, and quantum random access memory.
-
+ 
 * August 2020 - March 2021: Thermal States of SYK for Quantum Simulation
   * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
   * Cornell University
-  * Implementing/Designing variational quantum algorithms to prepare thermofield double states of SYK.
- 
-* June 2019 - October 2019: Thermal States of SYK for Quantum Simulation
-  * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
-  * Cornell University
   * Implemented variational quantum algorithms to prepare thermofield double states of SYK for quantum simulation applications, and simulated Hamiltonians that are dual to certain gravitational systems under the AdS/CFT correspondence. Implemented the Jordan-Wigner and Bravyi-Kitaev transformations, error mitigation techniques for TFD state preparation, and methods for measuring von Neumann and Rényi entropies of fermionic systems with quantum circuits.
+
+* June 2019 - October 2019: Noise Resilient Quantum Circuits
+  * Mentors: **Peter McMahon**
+  * Cornell University
+  * Simulated ‘noise resilient quantum circuits’ (based on https://arxiv.org/abs/1703.00032) which are ‘Markovian’ and ‘locally rapidly mixing’. Created methods to numerically diagnose the two properties. Found equivalent, tensor network descriptions of the same phenomena – providing elegant analytic tools. Cataloged simple noise resilient circuits.
 
 * January 2020 - present: Quantum Neural Networks
   * Mentors: **Peter McMahon**
