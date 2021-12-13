@@ -45,12 +45,10 @@ Research experience
   
 Skills
 ======
-* Quantum computing / information theory
-  * Quantum BLAS
-  * Unitary t-designs
-  * Scrambling
-* (Quantum) Machine Learning
-  * Reservoir Computing and Extreme Learning Machines
+* Quantum computation, quantum information theory, quantum simulation, quantum chaos, and random matrix theory.
+* Quantum machine learning, quantum linear algebra algorithms, unitary t-designs, and the Sachdev–Ye–Kitaev model.
+* Classical reservoir computing, extreme learning machines, and quantum reservoir computing.
+* Software packages: Cirq, Qiskit, Qutip, Pennylane, Tensorflow, Tensorflow Quantum, and OpenFermion.
 
 <!-- Publications
 ======
