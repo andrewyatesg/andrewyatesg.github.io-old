@@ -21,22 +21,27 @@ Research experience
 * April 2021 - present: Many-body Quantum Teleportation and Holography
   * Mentors: **John Preskill**, Sepehr Nezami
   * Caltech
-  * Studying the effects of noise on 'quantum gravity in the lab' experiments with near-term quantum computers, based on https://arxiv.org/abs/2102.01064.
+  * Studying the effects of noise on ‘quantum gravity in the lab’ experiments with near-term quantum computers, based on https://arxiv.org/abs/2102.01064. Using techniques from quantum information and random matrix theory such as quantum error correction, unitary t-designs, the Clifford group, and operator growth, discovered unexpected noise resilience.
 
-* June 2019 - present: Quantum Reservoir Computing
+* October 2019 - present: Quantum Reservoir Computing
   * Mentors: **Peter McMahon**, Logan Wright
   * Cornell University
-  * Creating, implementing, and testing a quantum circuit-model machine learning algorithm based on the principles of classical reservoir computing.
-
-* June 2019 - present: Quantum Neural Networks
-  * Mentors: **Peter McMahon**
-  * Cornell University
-  * Leading the undergraduate QML subgroup in the pursuit of two projects: (a) noise mitigation in QNNs and (b) quantifying the power of QNNs using ideas from quantum chaos.
+  * Theoretical and simulation work in quantum machine learning. Created, implemented, and tested a circuit-model quantum machine learning algorithm based on the principles of classical reservoir computing. This project includes quantum matrix inversion (HHL), quantum linear regression, and quantum random access memory.
 
 * August 2020 - March 2021: Thermal States of SYK for Quantum Simulation
   * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
   * Cornell University
   * Implementing/Designing variational quantum algorithms to prepare thermofield double states of SYK.
+ 
+* June 2019 - October 2019: Thermal States of SYK for Quantum Simulation
+  * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
+  * Cornell University
+  * Implemented variational quantum algorithms to prepare thermofield double states of SYK for quantum simulation applications, and simulated Hamiltonians that are dual to certain gravitational systems under the AdS/CFT correspondence. Implemented the Jordan-Wigner and Bravyi-Kitaev transformations, error mitigation techniques for TFD state preparation, and methods for measuring von Neumann and Rényi entropies of fermionic systems with quantum circuits.
+
+* January 2020 - present: Quantum Neural Networks
+  * Mentors: **Peter McMahon**
+  * Cornell University
+  * Leading the undergraduate QML subgroup in the pursuit of two projects: (a) noise mitigation in QNNs and (b) quantifying the power of QNNs using ideas from quantum chaos.
   
 Skills
 ======
