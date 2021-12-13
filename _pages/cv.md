@@ -26,7 +26,7 @@ Research experience
 * October 2019 - present: Quantum Reservoir Computing
   * Mentors: **Peter McMahon**, Logan Wright
   * Cornell University
-  * Theoretical and simulation work in quantum machine learning. Created, implemented, and tested a circuit-model quantum machine learning algorithm based on the principles of classical reservoir computing. This project includes quantum matrix inversion (HHL), quantum linear regression, and quantum random access memory.
+  * Theoretical and simulation work in quantum machine learning. Created, implemented, and testing a circuit-model quantum machine learning algorithm based on the principles of classical reservoir computing. This project includes quantum matrix inversion (HHL), quantum linear regression, and quantum random access memory.
 
 * August 2020 - March 2021: Thermal States of SYK for Quantum Simulation
   * Mentors: **Peter McMahon**, **Paul Ginsparg**, Thomas Hartman, Eliott Rosenberg
@@ -41,8 +41,8 @@ Research experience
 * January 2020 - present: Quantum Neural Networks
   * Mentors: **Peter McMahon**
   * Cornell University
-  * Leading the undergraduate QML subgroup in the pursuit of two projects: (a) noise mitigation in QNNs and (b) quantifying the power of QNNs using ideas from quantum chaos.
-  
+  * Mentors an undergraduate research group. Developed two projects concerning quantum neural networks. First, to use quantum chaos theory to diagnose barren plateaus (an issue where QNNs become untrainable after becoming sufficiently random). Second, to mitigate training noise by using techniques of classical transfer learning theory.
+
 Skills
 ======
 * Quantum computation, quantum information theory, quantum simulation, quantum chaos, and random matrix theory.
