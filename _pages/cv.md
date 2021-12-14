@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-CORNELL UNIVERSITY
-**Bachelor of Arts in Physics, GPA: 4.01/4**
-*Expected graduation: May 2022*
-* Selected coursework: Quantum Information Processing, Blackholes & Quantum Information (Grad), QFT (Grad), Quantum I-III, Solid State Physics, Applied Functional Analysis (Grad), Math Methods for Info Sci, Large Scale ML.
+CORNELL UNIVERSITY  
+**Bachelor of Arts in Physics, GPA: 4.01/4**  
+*Expected graduation: May 2022*  
+* Selected coursework: Quantum Information Processing, Blackholes & Quantum Information (Grad), QFT (Grad), Quantum I-III, Solid State Physics, Applied Functional Analysis (Grad), Math Methods for Info Sci, Large Scale ML.  
 
 Research Experience
 ======
-*Research supervisors (faculty members) are in bold.*
+*Research supervisors (faculty members) are in bold.*  
 
-CALTECH INSTITUTE FOR QUANTUM INFORMATION AND MATTER
-**Advisor: John Preskill**, Sepehr Nezami
-*April 2021 – present*
-* Supported by the Caltech Summer Undergraduate Research Fellowship.
-* Gave a talk at the MURI Annual Meeting 2021: Quantum Codes, Tensor Networks, and Quantum Spacetime.
-* Studied the effects of noise on ‘quantum gravity in the lab’ experiments. Using quantum information and random matrix theory, predicted unexpected noise-resilience caused by special operator-scrambling behavior. Developing a quantum error correction strategy that restores the teleported state to its noiseless form.
+CALTECH INSTITUTE FOR QUANTUM INFORMATION AND MATTER  
+**Advisor: John Preskill**, Sepehr Nezami  
+*April 2021 – present*  
+* Supported by the Caltech Summer Undergraduate Research Fellowship.  
+* Gave a talk at the MURI Annual Meeting 2021: Quantum Codes, Tensor Networks, and Quantum Spacetime.  
+* Studied the effects of noise on ‘quantum gravity in the lab’ experiments. Using quantum information and random matrix theory, predicted unexpected noise-resilience caused by special operator-scrambling behavior. Developing a quantum error correction strategy that restores the teleported state to its noiseless form.  
 
 CORNELL UNIVERSITY
 **Advisors: Paul Ginsparg and Peter McMahon**, Thomas Hartman, Eliott Rosenberg
