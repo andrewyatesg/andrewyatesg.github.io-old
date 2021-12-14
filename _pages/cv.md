@@ -53,11 +53,11 @@ Skills
 
 Industry Experience
 ======
-CORNELL DESIGN & TECH INITIATIVE  
+CORNELL DESIGN & TECH INITIATIVE
 *January - May 2019*  
 * Software developer for DTI, a prestigious engineering project team.  
 
-XIFIN, INC.  
+XIFIN, INC.
 *June - August 2017*  
 * Software developer intern at a company which automates healthcare financial processing.  
 
