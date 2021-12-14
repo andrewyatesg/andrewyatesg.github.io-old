@@ -79,8 +79,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Service and leadership
-======
-* I lead an undergraduate quantum machine learning group within McMahon lab.
-* I am a mentor for prospective physics and computer science majors at Cornell.
