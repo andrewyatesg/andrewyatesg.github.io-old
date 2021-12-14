@@ -25,7 +25,7 @@ CALTECH INSTITUTE FOR QUANTUM INFORMATION AND MATTER
 *April 2021 – present*  
 * Supported by the Caltech Summer Undergraduate Research Fellowship.  
 * Gave a talk at the MURI Annual Meeting 2021: Quantum Codes, Tensor Networks, and Quantum Spacetime.  
-* Studied the effects of noise on ‘quantum gravity in the lab’ experiments. Using quantum information and random matrix theory, predicted unexpected noise-resilience caused by special operator-scrambling behavior. Developing a quantum error correction strategy that restores the teleported state to its noiseless form.  
+* Studied the effects of noise on ‘quantum gravity in the lab’ experiments, based on https://arxiv.org/abs/2102.01064. Using quantum information and random matrix theory, predicted unexpected noise-resilience caused by special operator-scrambling behavior. Developing a quantum error correction strategy that restores the teleported state to its noiseless form.  
 
 CORNELL UNIVERSITY  
 **Advisors: Paul Ginsparg and Peter McMahon**, Thomas Hartman, Eliott Rosenberg  
