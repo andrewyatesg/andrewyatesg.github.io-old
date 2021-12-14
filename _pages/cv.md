@@ -21,7 +21,7 @@ Research Experience
 *Research supervisors (faculty members) are in bold.*  
 
 CALTECH INSTITUTE FOR QUANTUM INFORMATION AND MATTER  
-**Advisor: John Preskill**, Sepehr Nezami  
+**Advisors: John Preskill**, Sepehr Nezami  
 *April 2021 – present*  
 * Supported by the Caltech Summer Undergraduate Research Fellowship.  
 * Gave a talk at the MURI Annual Meeting 2021: Quantum Codes, Tensor Networks, and Quantum Spacetime.  
@@ -32,7 +32,7 @@ CORNELL UNIVERSITY
 *August 2020 – March 2021*  
 * Implemented a quantum algorithm to prepare thermofield double states of the Sachdev–Ye–Kitaev (SYK) model. This algorithm consisted of the Jordan-Wigner transformation and an adiabatic, trotterized Hamiltonian simulation of SYK. Developed methods for measuring the von Neumann and Rényi entropies of such systems.  
 
-**Advisor: Peter McMahon**, Logan Wright  
+**Advisors: Peter McMahon**, Logan Wright  
 *October 2019 – present*  
 * Created and simulated a circuit-model quantum reservoir ML algorithm. Discovered that it is equivalent to a dual classical neural network, where the layer size grows exponentially with its depth.  
 *June – October 2019*  
@@ -54,7 +54,7 @@ Skills
 Industry Experience
 ======
 CORNELL DESIGN & TECH INITIATIVE  
-*January - May 2019*
+*January - May 2019*  
 * Software developer for DTI, a prestigious engineering project team.  
 
 XIFIN, INC.  
