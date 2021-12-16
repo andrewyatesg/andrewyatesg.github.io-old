@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV](Github\ CV.pdf)
+[PDF CV](Github\ CV.pdf)  
+
 Education
 ======
 CORNELL UNIVERSITY  
