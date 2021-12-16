@@ -19,7 +19,7 @@ main:
     url: /cv/
     
   - title: "PDF CV"
-    url: _pages/Github CV.pdf
+    url: /_pages/Github CV.pdf
     
 #   - title: "Guide"
 #     url: /markdown/
