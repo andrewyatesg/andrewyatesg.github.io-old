@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-HARVARD UNIVERSITY
-**PhD in Quantum Science & Engineering - Theoretical Physics**
-*Incoming student*
+HARVARD UNIVERSITY  
+**PhD in Quantum Science & Engineering - Theoretical Physics**  
+*Incoming student*  
 
 CORNELL UNIVERSITY  
 **Bachelor of Arts in Physics**  
