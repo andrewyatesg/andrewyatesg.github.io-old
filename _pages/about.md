@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Andrew Yates. I study physics and computer science at Cornell University. Broadly speaking, my interests are quantum computing and quantum information theory, along with their applications to fundamental physics (e.g. quantum gravity, condensed matter), machine learning (e.g. reservoir computing), quantum simulation, among a variety of other topics.  
+Hi, I'm Andrew Yates. I study physics and computer science at Cornell University. Broadly speaking, my interests are quantum computing and quantum information theory, along with their applications to fundamental physics (quantum gravity, condensed matter), machine learning (reservoir computing), and the simulation of physical systems.  
 
-As of Fall 2021, I work with Peter McMahon's group at Cornell and John Preskill's group at Caltech. For more details, check my CV.
+As of Spring 2022, I work with Peter McMahon's group at Cornell and John Preskill's group at Caltech. Check my CV for more details!  
 
-This website is still under construction, but I'm planning to keep a very casual blog and (maybe) upload some videos. I will most likely post about (i) interesting topics in physics, (ii) finished projects, and (iii) science fiction.
+In Fall 2022, I will join Harvard University as a Ph.D. student studying theoretical physics - I am part of the inaugural class of [Harvard's new quantum Ph.D. program](https://news.harvard.edu/gazette/story/2021/04/harvard-launches-new-ph-d-program-in-quantum-science/).  
+
+This website is still under construction.
