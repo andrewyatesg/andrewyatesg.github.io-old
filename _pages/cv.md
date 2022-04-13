@@ -13,10 +13,14 @@ redirect_from:
 
 Education
 ======
+HARVARD UNIVERSITY
+**PhD in Quantum Science & Engineering - Theoretical Physics**
+*Incoming student*
+
 CORNELL UNIVERSITY  
-**Bachelor of Arts in Physics, GPA: 4.01/4**  
+**Bachelor of Arts in Physics**  
 *Expected graduation: May 2022*  
-* Selected coursework: Quantum Information Processing, Blackholes & Quantum Information (Grad), QFT (Grad), Quantum I-III, Solid State Physics, Applied Functional Analysis (Grad), Math Methods for Info Sci, Large Scale ML.  
+* Selected coursework: Quantum Information Processing, Blackholes & Quantum Information (Grad), QFT (Grad), Solid State Physics, Applied Functional Analysis (Grad).  
 
 Research Experience
 ======
@@ -40,7 +44,7 @@ CORNELL UNIVERSITY
 *June – October 2019*  
 * Simulated ‘noise-resilient quantum circuits’ which are ‘Markovian’ and ‘locally rapidly mixing’. Created methods to diagnose and catalogue circuits with these properties. Found tensor network descriptions of the same phenomena which provided elegant analytic tools.  
 *January 2020 – present*  
-* Mentors undergrads in Peter McMahon’s group who are working on two projects. First, to use quantum chaos theory to diagnose ‘vanishing gradient’ problems (e.g., barren plateaus) in machine learning. Second, to mitigate training noise on quantum devices performing machine learning tasks by applying classical transfer learning theory techniques.  
+* Mentors undergrads in Peter McMahon’s group who are working on quantum machine learning projects.
 
 Service and Leadership
 ======
@@ -57,7 +61,7 @@ Industry Experience
 ======
 CORNELL DESIGN & TECH INITIATIVE  
 *January - May 2019*  
-* Software developer for DTI, a prestigious engineering project team.  
+* Software developer for DTI, an engineering project team.  
 
 XIFIN, INC.  
 *June - August 2017*  
