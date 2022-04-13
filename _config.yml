@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrew Yates"
   avatar           : "profile.jpeg"
-  bio              : "Physics Undergrad @ Cornell University. Incoming PhD student @ Harvard University."
+  bio              : "Physics Undergrad @ Cornell University. \n Incoming PhD student @ Harvard University."
   location         : "Ithaca, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
