@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Andrew Yates"
   avatar           : "profile.jpeg"
-  bio              : "Incoming Harvard PhD Student. Cornell Physics '22."
-  location         : "Ithaca, NY"
+  bio              : "Harvard PhD Student. Cornell Physics '22."
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
